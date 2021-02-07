@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const Loader = () => {
+const Awal = () => {
   const [hideLoader, setHideLoader] = useState({});
 
   useEffect(() => {
@@ -28,4 +28,4 @@ const Loader = () => {
   );
 };
 
-export default Loader;
+export default Awal;

@@ -18,7 +18,7 @@ function App() {
         
         <Awal/>
         <Main/>
-        <Center/>
+
    
       </div>
     );
