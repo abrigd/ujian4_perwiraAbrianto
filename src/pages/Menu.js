@@ -15,7 +15,7 @@ class Menu extends Component {
                         <li><a href="#page-contact" className="link-page">Contact</a></li>
                     </ul>
                 </div>
-                {/* /MAIN MENU */}
+ 
             </div>
         );
     }

@@ -6,7 +6,7 @@ import Skill from './Skill';
 import Portofolio from './Portfolio';
 import Blog from './Blog';
 import Contact from './Contact';
-// import BlogIsi from './BlogIsi';
+
 
 class Body extends Component {
     render() {
@@ -19,7 +19,7 @@ class Body extends Component {
                         <Skill />
                         <Portofolio />
                         <Blog />
-                        {/* <BlogIsi /> */}
+               
                         {/* <Contact /> */}
                     </div>
                 </section>
