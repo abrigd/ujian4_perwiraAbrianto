@@ -3,8 +3,8 @@ import Menu from './Menu';
 import Home from './Home';
 import Resume from './Resume';
 import Skill from './Skill';
-// import Portofolio from './Portofolio';
-// import Blog from './Blog';
+import Portofolio from './Portfolio';
+import Blog from './Blog';
 import Contact from './Contact';
 // import BlogIsi from './BlogIsi';
 
@@ -17,8 +17,8 @@ class Body extends Component {
                         <Home />
                         <Resume />
                         <Skill />
-                        {/* <Portofolio /> */}
-                        {/* <Blog /> */}
+                        <Portofolio />
+                        <Blog />
                         {/* <BlogIsi /> */}
                         {/* <Contact /> */}
                     </div>

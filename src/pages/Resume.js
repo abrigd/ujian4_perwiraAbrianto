@@ -25,18 +25,18 @@ class Resume extends Component {
 
         
                      
-                            return (
+                       
                                 <div className="resume-item" >
                         
-                                    <h3 className="section-item-title-1">"a"</h3>
+                                    <h3 className="section-item-title-1">Gunadarma</h3>
                           
-                                    <h4 className="graduation-time">"a"(<strong className="graduation-date">"a"</strong>)</h4>
+                                    <h4 className="graduation-time">2004-2013(<strong className="graduation-date">SIB</strong>)</h4>
                           
                                     <div className="graduation-description">
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                         
                                 </div>
-                            )
+                           
                      
                 
 
@@ -46,19 +46,19 @@ class Resume extends Component {
                         <h2 className="section-title2"><i className="fa fa-flag" />&nbsp; Work Experience</h2>
 
              
-                        return (
+                    
                                 <div className="resume-item" >
                          
-                                    <h3 className="section-item-title-1">"a"</h3>
+                                    <h3 className="section-item-title-1">Indosystem</h3>
                         
-                                    <h4 className="graduation-time">"a"(<strong className="graduation-date">"a"</strong>)</h4>
+                                    <h4 className="graduation-time">2008-2020(<strong className="graduation-date">IT</strong>)</h4>
                          
                                     <div className="graduation-description">
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                     </div>
-                            
+                                    </div>
                                 </div>
-                            )
+                      
               
 
                     </div>
@@ -71,7 +71,7 @@ class Resume extends Component {
                         <div className="testimonial-slides" id="testimonial-carousel">
 
             
-                                return (
+                            
                                     <div className="testimonial-item" >
                          
                                         <div className="testimonial-content">
@@ -89,7 +89,7 @@ class Resume extends Component {
                                         </div>
                                
                                     </div>
-                                )
+                           
                   
                    
 

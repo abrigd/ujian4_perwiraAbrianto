@@ -715,7 +715,7 @@ iframe {
 .section-item-title-2 {
   font-weight: bold;
   color: #021533;
-  color: #333;
+  color: rgb(255, 255, 255);
   padding-left: 0;
   margin-left: 0;
   font-size: 18px;

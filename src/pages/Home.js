@@ -10,6 +10,7 @@ class Home extends Component {
                 <div className="section-vcardbody section-home" id="section-home">
   
                     <div className="vcard-profile-pic">
+                        <img style={{height: 240}} src="http://p_abrianto.staff.gunadarma.ac.id/photo.png" id="profile2" alt="" />
                         <img style={{height: 240}} src="http://p_abrianto.staff.gunadarma.ac.id/photo.png" id="profile1" className="profileActive" alt="" />
                         {/* <img style={{height: 259,transform: "scaleX(-1)"}} src="http://p_abrianto.staff.gunadarma.ac.id/photo.png" id="profile1" className="profileActive" alt="" /> */}
                     </div>

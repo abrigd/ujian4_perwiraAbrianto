@@ -20,22 +20,22 @@ class Skill extends Component {
             <ul className="skills-list">
               {/* item-list */}
          
-                return (
+               
                   <li>
                     <div className="progress" >
                       <div
                         className="progress-bar"
                         role="progressbar"
                         data-percent=""
-                        style={{ width: `10` }}
+                        style={{ width: "50%" }}
                       >
-                        <span className="sr-only">"" Complete</span>
+                        <span className="sr-only">"50%"</span>
                       </div>
-                      <span className="progress-type">""</span>
-                      <span className="progress-completed">""</span>
+                      <span className="progress-type">PHP</span>
+                      <span className="progress-completed">"50%"</span>
                     </div>
                   </li>
-                );
+            
           
               {/* /item list */}
             </ul>
@@ -50,22 +50,22 @@ class Skill extends Component {
             <ul className="skills-list">
               {/* item-list */}
      
-                return (
+          
                   <li>
                     <div className="progress" >
                       <div
                         className="progress-bar progress-bar-2"
                         role="progressbar"
                         data-percent=""
-                        style={{ width: `` }}
-                      >
-                        <span className="sr-only">"" Complete</span>
-                      </div>
-                      <span className="progress-type">""</span>
-                      <span className="progress-completed">""</span>
+                        style={{ width: "50%" }}
+                        >
+                          <span className="sr-only">"50%"</span>
+                        </div>
+                        <span className="progress-type">PHP</span>
+                        <span className="progress-completed">"50%"</span>
                     </div>
                   </li>
-                );
+         
         
               {/* /item list */}
             </ul>
@@ -80,22 +80,22 @@ class Skill extends Component {
             <ul className="skills-list">
               {/* item-list */}
           
-                return (
+           
                   <li>
                     <div className="progress" >
                       <div
                         className="progress-bar progress-bar-3"
                         role="progressbar"
                         data-percent=""
-                        style={{ width: 10 }}
-                      >
-                        <span className="sr-only">"" Complete</span>
-                      </div>
-                      <span className="progress-type">""</span>
-                      <span className="progress-completed">""</span>
+                        style={{ width: "50%" }}
+                        >
+                          <span className="sr-only">"50%"</span>
+                        </div>
+                        <span className="progress-type">PHP</span>
+                        <span className="progress-completed">"50%"</span>
                     </div>
                   </li>
-                );
+       
       
               {/* /item list */}
             </ul>
